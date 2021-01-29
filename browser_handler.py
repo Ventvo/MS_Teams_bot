@@ -14,7 +14,7 @@ driver = webdriver.Chrome(service_log_path='NUL')
 URL = "https://teams.microsoft.com"
 
 # put your teams credentials here
-credentials = {'email': 'ventruba.vojtech20@kosinka.com', 'passwd': 'iDontFuckingKnow.78313'}
+credentials = {'email': 'email here', 'passwd': 'passwd here'}
 
 
 def start_browser():
